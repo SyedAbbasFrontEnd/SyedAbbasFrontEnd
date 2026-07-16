@@ -20,6 +20,15 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)
 
+### 🏆 Achievements
+- 🚀 Improved application performance by optimizing change detection and lazy loading.
+- ⚡ Built reusable Angular components and shared libraries.
+- 📉 Reduced unnecessary API calls using RxJS caching strategies.
+- 🧪 Maintained high unit test coverage and code quality standards.
+- 🔐 Implemented secure authentication and role-based authorization.
+- ☁️ Experience deploying applications with AWS and CI/CD pipelines.
+- 🤖 Integrated AI-powered features using modern LLM APIs.
+  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
