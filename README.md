@@ -14,11 +14,33 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SyedAbbasFrontEnd&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-![Angular](https://img.shields.io/badge/Angular-17+-red)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
-![Node.js](https://img.shields.io/badge/Node.js-20-green)
+## 🚀 Tech Stack
+![Angular](https://img.shields.io/badge/Angular-17+-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
 
 ### 🏆 Achievements
 - 🚀 Improved application performance by optimizing change detection and lazy loading.
@@ -38,4 +60,10 @@
 ---
 [![](https://komarev.com/ghpvc/?username=SyedAbbasFrontEnd&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Profile Views](https://komarev.com/ghpvc/?username=SyedAbbasFrontEnd&style=for-the-badge)
+
+![GitHub followers](https://img.shields.io/github/followers/SyedAbbasFrontEnd?style=for-the-badge)
+
+![GitHub stars](https://img.shields.io/github/stars/SyedAbbasFrontEnd?style=for-the-badge)
+Angular • React • JavaScript • TypeScript • Python • Node.js • Express • MongoDB • AWS • Docker • GitHub Actions • OpenAI • Git • VS Code
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
