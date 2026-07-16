@@ -56,14 +56,4 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SyedAbbasFrontEnd&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=SyedAbbasFrontEnd&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![Profile Views](https://komarev.com/ghpvc/?username=SyedAbbasFrontEnd&style=for-the-badge)
-
-![GitHub followers](https://img.shields.io/github/followers/SyedAbbasFrontEnd?style=for-the-badge)
-
-![GitHub stars](https://img.shields.io/github/stars/SyedAbbasFrontEnd?style=for-the-badge)
-Angular • React • JavaScript • TypeScript • Python • Node.js • Express • MongoDB • AWS • Docker • GitHub Actions • OpenAI • Git • VS Code
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
