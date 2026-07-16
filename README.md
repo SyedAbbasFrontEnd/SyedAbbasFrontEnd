@@ -14,6 +14,11 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SyedAbbasFrontEnd&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Angular](https://img.shields.io/badge/Angular-17+-red)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
+![Node.js](https://img.shields.io/badge/Node.js-20-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
